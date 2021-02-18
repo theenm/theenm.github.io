@@ -16,7 +16,7 @@
 
 **미디어 서버 서베이**
 1. mediasoup
-> (./mediasoup-test-result.png)
+> ![](./mediasoup-test-result.png)
 > * https://mediasoup.org/documentation/v3/scalability/
 > * 아프리카티비 합동 방송 : WebRTC 사용
 > * HyperConnect 라이브 방송 : Janus Gateway 사용
@@ -26,7 +26,7 @@
 > * https://github.com/hyperconnect/janus-gateway
 > * https://dangen-effy.github.io/post/janus-%EC%86%8C%EA%B0%9C%EC%99%80-docker-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/
 3. Audio Codec 스터디**
-> (./opus.jpg)
+> ![](./opus.jpg)
 > * 48KHz 샘플링만 지원, 극저, 극고 비트레이트에서는 불리, latency (기본 26.5ms, 최적화시 5ms)
 > * https://en.wikipedia.org/wiki/Opus_(audio_format)
 
