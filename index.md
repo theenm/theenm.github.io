@@ -55,10 +55,10 @@
 2. mediasoup  스케일링 https://mediasoup.org/documentation/v3/scalability/
 3. REST 보안가이드 https://bcho.tistory.com/955
 
-**#확장성 리뷰**
+**확장성 리뷰**
 1. mediasoup https://mediasoup.org/documentation/v3/scalability/
 2. janus https://www.slideshare.net/LorenzoMiniero/scaling-webrtc-applications-with-janus
 3. sfu vs mcu https://www.slideshare.net/LorenzoMiniero/can-sfus-and-mcus-be-friends-iitrtc-2020
 
-**#Tutorial**
+**Tutorial**
 1. https://www.tutorialspoint.com/webrtc/webrtc_security.htm
