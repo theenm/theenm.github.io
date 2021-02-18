@@ -27,7 +27,7 @@
 > * <https://github.com/hyperconnect/janus-gateway>
 > * <https://dangen-effy.github.io/post/janus-%EC%86%8C%EA%B0%9C%EC%99%80-docker-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/>
 3. Audio Codec 스터디**
-> ![](https://en.wikipedia.org/wiki/File:Opus_bitrate%2Blatency_comparison.svg)
+> ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Opus_bitrate%2Blatency_comparison.svg/220px-Opus_bitrate%2Blatency_comparison.svg.png)
 > * 48KHz 샘플링만 지원, 극저, 극고 비트레이트에서는 불리, latency (기본 26.5ms, 최적화시 5ms)
 > * <https://en.wikipedia.org/wiki/Opus_(audio_format)>
 
